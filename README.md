@@ -1,3 +1,3 @@
 ### PasswordGenerator-Cpp
-<ul><li>a simple C++ program for generating passwords</li></ul>
+<ul><li>A simple code that generates a random password in c++.</li></ul>
 
